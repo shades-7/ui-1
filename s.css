@@ -1,0 +1,35 @@
+
+    .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        
+      }
+.text{
+    margin-right: 30%
+}
+.bg{
+    background: rgb(0, 0, 0)
+}
+.c{
+    text-align: center;
+    margin-top: 40%
+}
+
+.s{
+    text-align: center;
+    height:30%;
+    width:100%
+}
+.bg1{
+    background: black;
+    opacity: 90%;
+    height:40%;
+    width:22%;
+    padding:5%;
+    
+}
+.bg2{
+    background: red
+}
